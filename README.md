@@ -58,5 +58,6 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Get started with python](https://dev.to/ishaan010/get-started-with-python-1mgh)
 - [Ezpie for programming](https://dev.to/ishaan010/ezpie-for-programming-26j9)
 <!-- BLOG-POST-LIST:END -->
