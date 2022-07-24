@@ -58,4 +58,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [python speech recognition not getting install [duplicate]](https://stackoverflow.com/questions/72711049/python-speech-recognition-not-getting-install)
+- [React version 1.2.5 not getting install](https://stackoverflow.com/questions/72613076/react-version-1-2-5-not-getting-install)
+- [Why am I getting ImportError: cannot import name &#39;db&#39;](https://stackoverflow.com/questions/72076458/why-am-i-getting-importerror-cannot-import-name-db)
 <!-- BLOG-POST-LIST:END -->
