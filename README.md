@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Coding challenge of the week](https://dev.to/ishaan010/coding-challenge-of-the-week-3b1e)
 - [How to contribute in github?](https://dev.to/ishaan010/how-to-contribute-in-github-48pn)
 - [Help wanted for list in python](https://dev.to/ishaan010/help-wanted-for-list-in-python-4811)
 - [Get some contributes](https://dev.to/ishaan010/get-some-contributes-2ff8)
-- [Projects todo if you want to learn python&lpar;and if you are just starting with it&rpar;](https://dev.to/ishaan010/projects-todo-if-you-want-to-learn-pythonand-if-you-are-just-starting-with-it-23ja)
 <!-- BLOG-POST-LIST:END -->
