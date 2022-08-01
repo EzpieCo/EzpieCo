@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Test your python skills](https://dev.to/ishaan010/test-your-python-skills-2m4b)
 - [React project one must do!](https://dev.to/ishaan010/react-project-one-must-do-41n1)
 - [top 5 vscode extensions](https://dev.to/ishaan010/top-5-vscode-extensions-2gpb)
-- [Coding challenge of the week](https://dev.to/ishaan010/coding-challenge-of-the-week-3b1e)
 - [How to contribute in github?](https://dev.to/ishaan010/how-to-contribute-in-github-48pn)
 <!-- BLOG-POST-LIST:END -->
