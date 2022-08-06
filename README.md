@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [The weekly challenge. Web dev](https://dev.to/ishaan010/the-weekly-challenge-web-dev-18b1)
 - [Will you teach python?](https://dev.to/ishaan010/will-you-teach-python-2j6n)
 - [Mistakes every beginner makes](https://dev.to/ishaan010/mistakes-every-beginner-makes-17mm)
 - [Test your python skills](https://dev.to/ishaan010/test-your-python-skills-2m4b)
-- [React project one must do!](https://dev.to/ishaan010/react-project-one-must-do-41n1)
 <!-- BLOG-POST-LIST:END -->
