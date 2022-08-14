@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Collaborators wanted](https://dev.to/ishaan010/collaborators-wanted-137)
 - [Programmer or coder?](https://dev.to/ishaan010/programmer-or-coder-1nd1)
 - [Top 5 SEO tips you must know!](https://dev.to/ishaan010/top-5-seo-tips-you-must-know-2405)
 - [Start use Google like a developer](https://dev.to/ishaan010/start-use-google-like-a-developer-4768)
-- [Contribute anything you want to](https://dev.to/ishaan010/contribute-anything-you-want-to-4ad9)
 <!-- BLOG-POST-LIST:END -->
