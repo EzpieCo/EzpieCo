@@ -58,7 +58,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Want to do solve an issue? Click Here!!](https://dev.to/ishaan010/want-to-do-solve-an-issue-click-here-3192)
+- [Want to solve an issue? Click Here!!](https://dev.to/ishaan010/want-to-do-solve-an-issue-click-here-3192)
 - [How to create a basic rest API step by step and line by line!](https://dev.to/ishaan010/how-to-create-a-basic-rest-api-step-by-step-and-line-by-line-kdl)
 - [tutorials for python in dev.to!](https://dev.to/ishaan010/tutorials-for-python-in-devto-4fa3)
 - [How to get more stars for your open-source project!](https://dev.to/ishaan010/how-to-get-more-stars-for-your-open-source-project-26kh)
