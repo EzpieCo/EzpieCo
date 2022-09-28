@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Ezpie is going to change!](https://dev.to/ishaan010/ezpie-is-going-to-change-4mmc)
 - [How I learned many languages&lpar;and how you can to!&rpar;](https://dev.to/ishaan010/how-i-learned-many-languagesand-how-you-can-to-17p0)
 - [Now What In The Developers Is Git And Github?](https://dev.to/ishaan010/now-what-in-the-developers-is-git-and-github-f40)
 - [Maintainers needed](https://dev.to/ishaan010/maintainers-needed-5b2n)
-- [How to create a basic rest API step by step and line by line!](https://dev.to/ishaan010/how-to-create-a-basic-rest-api-step-by-step-and-line-by-line-kdl)
 <!-- BLOG-POST-LIST:END -->
