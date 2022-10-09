@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8YBpKSm3uPWG9Ca0F4/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/104765117/194759558-17dc6b7e-759c-43fb-b0a6-6606fe9a49c3.png" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/ezpieco">
