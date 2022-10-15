@@ -2,11 +2,14 @@
   <img src="https://user-images.githubusercontent.com/104765117/194759558-17dc6b7e-759c-43fb-b0a6-6606fe9a49c3.png" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://in.linkedin.com/in/ezpieco">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/EzpieCo">
+    <img src="https://img.shields.io/badge/Twiiter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://dev.to/ishaan010">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+  </a>
+  <a href="https://in.linkedin.com/in/ezpieco">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
