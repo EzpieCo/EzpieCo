@@ -58,8 +58,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Want your blog post to be read by more? click here!](https://dev.to/ishaan010/want-your-blog-post-to-be-read-by-more-click-here-3gpf)
 - [New Ezpie is going to be better then old ezpie!](https://dev.to/ishaan010/new-ezpie-is-going-to-be-better-then-old-ezpie-201o)
 - [How I would learn programming&lpar;if I could start over&rpar;](https://dev.to/ishaan010/how-i-would-learn-programmingif-i-could-start-over-2hil)
 - [Ezpie is going to change!](https://dev.to/ishaan010/ezpie-is-going-to-change-4mmc)
-- [How I learned many languages&lpar;and how you can to!&rpar;](https://dev.to/ishaan010/how-i-learned-many-languagesand-how-you-can-to-17p0)
 <!-- BLOG-POST-LIST:END -->
