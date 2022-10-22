@@ -61,8 +61,8 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Best github repository for hacktoberfest!](https://dev.to/ishaan010/best-github-repository-for-hacktoberfest-2kb5)
 - [Ezpie discord server is available!](https://dev.to/ishaan010/ezpie-discord-server-is-available-449f)
 - [Join the chat to learn programming!](https://dev.to/ishaan010/join-the-chat-to-learn-programming-494m)
 - [Want your blog post to be read by more? click here!](https://dev.to/ishaan010/want-your-blog-post-to-be-read-by-more-click-here-3gpf)
-- [New Ezpie is going to be better then old ezpie!](https://dev.to/ishaan010/new-ezpie-is-going-to-be-better-then-old-ezpie-201o)
 <!-- BLOG-POST-LIST:END -->
