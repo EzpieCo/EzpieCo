@@ -61,6 +61,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [CrazyCss is out!](https://dev.to/ezpieco/crazycss-is-out-1cc0)
 - [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
 - [How to use ChatGPT as a developer!](https://dev.to/ezpieco/how-to-use-chatgpt-as-a-developer-357a)
 - [Ezpie challenge. React todo CRUD app](https://dev.to/ezpieco/ezpie-challenge-react-todo-crud-app-4jef)
@@ -70,5 +71,4 @@ I am a all in one Developer from India.
 - [Join the chat to learn programming!](https://dev.to/ezpieco/join-the-chat-to-learn-programming-494m)
 - [Want your blog post to be read by more? click here!](https://dev.to/ezpieco/want-your-blog-post-to-be-read-by-more-click-here-3gpf)
 - [New Ezpie is going to be better then old ezpie!](https://dev.to/ezpieco/new-ezpie-is-going-to-be-better-then-old-ezpie-201o)
-- [How I would learn programming&lpar;if I could start over&rpar;](https://dev.to/ezpieco/how-i-would-learn-programmingif-i-could-start-over-2hil)
 <!-- BLOG-POST-LIST:END -->
