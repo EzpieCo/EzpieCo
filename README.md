@@ -61,6 +61,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate React beginner Course](https://dev.to/ezpieco/ultimate-react-beginner-course-33fb)
 - [How much will you rate my site?](https://dev.to/ezpieco/how-much-will-you-rate-my-site-kac)
 - [CrazyCss is out!](https://dev.to/ezpieco/crazycss-is-out-1cc0)
 - [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
@@ -70,5 +71,4 @@ I am a all in one Developer from India.
 - [Best github repository for hacktoberfest!](https://dev.to/ezpieco/best-github-repository-for-hacktoberfest-2kb5)
 - [Ezpie discord server is available!](https://dev.to/ezpieco/ezpie-discord-server-is-available-449f)
 - [Join the chat to learn programming!](https://dev.to/ezpieco/join-the-chat-to-learn-programming-494m)
-- [Want your blog post to be read by more? click here!](https://dev.to/ezpieco/want-your-blog-post-to-be-read-by-more-click-here-3gpf)
 <!-- BLOG-POST-LIST:END -->
