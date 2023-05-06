@@ -5,7 +5,7 @@
   <a href="https://twitter.com/EzpieCo">
     <img src="https://img.shields.io/badge/Twiiter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://dev.to/ishaan010">
+  <a href="https://dev.to/ezpieco">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
   <a href="https://in.linkedin.com/in/ezpieco">
