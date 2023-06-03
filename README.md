@@ -27,9 +27,9 @@
 ### :technologist: About Me :
 I am a all in one Developer from India.
 
-- :telescope: I like to make programs such as websites, apps and a lot more.
+- :telescope: I like to make webapps with react(and angular), mobile apps, games, machine learning models, and a lot more.
 
-- :zap: In my free time, I solve programming problems.
+- :zap: In my free time, I solve programming problems at leetcode(for no reason).
 
 - :mailbox:How to reach me: [![gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJZNgsxKtkBZBfFmzqBqhNtPFmWJkzGkCPDbQNZXMWdCbkXSgNxTjBPHzDcHWkSZbFQv)
 
