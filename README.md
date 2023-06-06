@@ -8,9 +8,6 @@
   <a href="https://dev.to/ezpieco">
     <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
   </a>
-  <a href="https://in.linkedin.com/in/ezpieco">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ishaan010&style=flat-square&color=blue" alt=""/>
