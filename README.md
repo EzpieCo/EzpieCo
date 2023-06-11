@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [So my site crashed!](https://dev.to/ezpieco/so-my-site-crashed-210f)
 - [Watch me making updates to my css library](https://dev.to/ezpieco/watch-me-making-updates-to-my-css-library-2iop)
 - [Welcome New ezpie maintainer!](https://dev.to/ezpieco/welcome-new-ezpie-maintainer-554o)
 - [Looking for developer who can write](https://dev.to/ezpieco/looking-for-developer-who-can-write-3kib)
@@ -75,5 +76,4 @@ I am a all in one Developer from India.
 - [How much will you rate my site?](https://dev.to/ezpieco/how-much-will-you-rate-my-site-kac)
 - [CrazyCss is out!](https://dev.to/ezpieco/crazycss-is-out-1cc0)
 - [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
-- [How to use ChatGPT as a developer!](https://dev.to/ezpieco/how-to-use-chatgpt-as-a-developer-357a)
 <!-- BLOG-POST-LIST:END -->
