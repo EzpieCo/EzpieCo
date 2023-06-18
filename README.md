@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [In memorial of r/ProgrammingHumor](https://dev.to/ezpieco/in-memorial-of-rprogramminghumor-p44)
 - [So my site crashed!](https://dev.to/ezpieco/so-my-site-crashed-210f)
 - [Watch me making updates to my css library](https://dev.to/ezpieco/watch-me-making-updates-to-my-css-library-2iop)
 - [Welcome New ezpie maintainer!](https://dev.to/ezpieco/welcome-new-ezpie-maintainer-554o)
@@ -75,5 +76,4 @@ I am a all in one Developer from India.
 - [Ultimate React beginner Course](https://dev.to/ezpieco/ultimate-react-beginner-course-33fb)
 - [How much will you rate my site?](https://dev.to/ezpieco/how-much-will-you-rate-my-site-kac)
 - [CrazyCss is out!](https://dev.to/ezpieco/crazycss-is-out-1cc0)
-- [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
 <!-- BLOG-POST-LIST:END -->
