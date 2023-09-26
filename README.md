@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Ezpie for hactoberfest.](https://dev.to/ezpie/placeholder-maintainer-20ae)
 - [Join the ezpie Community: Where Learning Meets Teaching](https://dev.to/ezpie/join-the-ezpie-community-where-learning-meets-teaching-2i0m)
 - [Looking for maintainers](https://dev.to/ezpie/looking-for-maintainers-gi6)
 - [We changed our repository!](https://dev.to/ezpieco/we-changed-our-repository-5bom)
@@ -75,5 +76,4 @@ I am a all in one Developer from India.
 - [Welcome New ezpie maintainer!](https://dev.to/ezpieco/welcome-new-ezpie-maintainer-554o)
 - [Looking for developer who can write](https://dev.to/ezpieco/looking-for-developer-who-can-write-3kib)
 - [The best developer environment setup](https://dev.to/ezpieco/the-best-developer-environment-setup-3jc0)
-- [CrazyCss version 2 is out!](https://dev.to/ezpieco/crazycss-version-2-is-out-16ma)
 <!-- BLOG-POST-LIST:END -->
