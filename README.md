@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Who I am](https://dev.to/ezpieco/who-i-am-38g)
 - [Lambda: The Open Sourced social media app!](https://dev.to/ezpie/lambda-the-open-sourced-social-media-app-12m4)
 - [Become a member of the ezpie community](https://dev.to/ezpie/become-a-member-of-the-ezpie-community-a08)
 - [Ezpie for hactoberfest.](https://dev.to/ezpie/placeholder-maintainer-20ae)
@@ -75,5 +76,4 @@ I am a all in one Developer from India.
 - [In memorial of r/ProgrammingHumor](https://dev.to/ezpieco/in-memorial-of-rprogramminghumor-p44)
 - [So my site crashed!](https://dev.to/ezpieco/so-my-site-crashed-210f)
 - [Watch me making updates to my css library](https://dev.to/ezpieco/watch-me-making-updates-to-my-css-library-2iop)
-- [Welcome New ezpie maintainer!](https://dev.to/ezpieco/welcome-new-ezpie-maintainer-554o)
 <!-- BLOG-POST-LIST:END -->
