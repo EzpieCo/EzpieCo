@@ -66,5 +66,6 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
 - [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
 <!-- BLOG-POST-LIST:END -->
