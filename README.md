@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Internship Chance](https://dev.to/ezpieco/internship-chance-14pk)
 - [Most accurate programming tier list ever](https://dev.to/ezpieco/most-accurate-programming-tier-list-ever-a10)
 - [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
 - [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
