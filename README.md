@@ -69,7 +69,7 @@ I am a all in one Developer from India.
 - [Calling All Developers: Join Lambda and Shape the Future of Social Media](https://dev.to/ezpieco/calling-all-developers-join-lambda-and-shape-the-future-of-social-media-g5h)
 - [Reality Of being a developer](https://dev.to/ezpieco/reality-of-being-a-developer-2a4l)
 - [Top 6 dev tools you must use!](https://dev.to/ezpieco/top-6-dev-tools-you-must-use-1ep8)
-- [Internship Chance](https://dev.to/ezpieco/internship-chance-14pk)
+- [Job Offer for $43,202/year](https://dev.to/ezpieco/internship-chance-14pk)
 - [Most accurate programming tier list ever](https://dev.to/ezpieco/most-accurate-programming-tier-list-ever-a10)
 - [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
 - [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
