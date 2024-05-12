@@ -66,6 +66,7 @@ I am a all in one Developer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [I reached out 6 YouTuber devs!](https://dev.to/ezpieco/i-reached-out-6-youtuber-devs-876)
 - [Calling All Developers: Join Lambda and Shape the Future of Social Media](https://dev.to/ezpieco/calling-all-developers-join-lambda-and-shape-the-future-of-social-media-g5h)
 - [Reality Of being a developer](https://dev.to/ezpieco/reality-of-being-a-developer-2a4l)
 - [Top 6 dev tools you must use!](https://dev.to/ezpieco/top-6-dev-tools-you-must-use-1ep8)
