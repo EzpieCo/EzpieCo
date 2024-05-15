@@ -1,77 +1,79 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/104765117/194759558-17dc6b7e-759c-43fb-b0a6-6606fe9a49c3.png" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://twitter.com/EzpieCo">
-    <img src="https://img.shields.io/badge/Twiiter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://dev.to/ezpieco">
-    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
-  </a>
-</div>
+<h2 align="left">Hi 👋! My name is EzpieCo</h2>
+
+###
+
+<p align="center">I'm the creator of the world's first ever open-sourced social media app</p>
+
+###
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaan010&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezpieco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ezpieco&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
----
+###
 
-### :technologist: About Me :
-I am a all in one Developer from India.
-
-- :telescope: I like to make webapps with react(and angular), mobile apps, games, machine learning models, and a lot more.
-
-- :zap: In my free time, I solve programming problems at leetcode(for no reason).
-
-- :mailbox:How to reach me: [![gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJZNgsxKtkBZBfFmzqBqhNtPFmWJkzGkCPDbQNZXMWdCbkXSgNxTjBPHzDcHWkSZbFQv)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40">&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
----
+###
 
-### :fire: My Stats :
-[![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezpieco)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ezpieco&theme=dark)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezpieco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjszWBGBbqHrLrvCMXrPsXGhRHhKCSxjhkVJnbZWSpnMVQCgZqHhVFmsnQGWWMsllbVRpr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/ezpieco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+</div>
 
----
+###
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [I reached out 6 YouTuber devs!](https://dev.to/ezpieco/i-reached-out-6-youtuber-devs-876)
-- [Calling All Developers: Join Lambda and Shape the Future of Social Media](https://dev.to/ezpieco/calling-all-developers-join-lambda-and-shape-the-future-of-social-media-g5h)
-- [Reality Of being a developer](https://dev.to/ezpieco/reality-of-being-a-developer-2a4l)
-- [Top 6 dev tools you must use!](https://dev.to/ezpieco/top-6-dev-tools-you-must-use-1ep8)
-- [Job Offer for $43,202/year](https://dev.to/ezpieco/internship-chance-14pk)
-- [Most accurate programming tier list ever](https://dev.to/ezpieco/most-accurate-programming-tier-list-ever-a10)
-- [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
-- [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
-<!-- BLOG-POST-LIST:END -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ezpieco/ezpieco/output/snake.svg" alt="Snake animation" />
+
+###
