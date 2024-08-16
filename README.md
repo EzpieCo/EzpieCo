@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm the creator of the world's first ever open-sourced social media app</p>
+<p align="center">I'm the creator of the open-sourced privacy based social media app <a href="https://github.com/ezpie1/lambda-official">Lambda</a></p>
 
 ###
 
@@ -62,9 +62,6 @@
 ###
 
 <div align="left">
-  <a href="mailto:ezpie.co@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://dev.to/ezpieco" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
