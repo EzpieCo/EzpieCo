@@ -19,7 +19,7 @@ Few weird things about me:
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/ezpieco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ezpieco" height="30" width="40" /></a>
-<a href="/https://ezpieco.vercel.app/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ezpieco.vercel.app/rss.xml" height="30" width="40" /></a>
+<a href="https://ezpieco.vercel.app/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ezpieco.vercel.app/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
