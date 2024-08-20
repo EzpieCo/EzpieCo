@@ -37,4 +37,6 @@ Few weird things about me:
 - [What tools do you use? Week 2](https://dev.to/ezpieco/what-tools-do-you-use-132e)
 - [Why is AI useless?](https://dev.to/ezpieco/why-is-ai-useless-f8h)
 - [What tools do you use? Week 1](https://dev.to/ezpieco/what-tools-do-you-use-5h28)
+- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
+- [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
 <!-- BLOG-POST-LIST:END -->
