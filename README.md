@@ -40,3 +40,11 @@ Few weird things about me:
 - [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
 - [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
 <!-- BLOG-POST-LIST:END -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ezpieco/ezpieco/output/snake.svg" alt="Snake animation" />
+
+###
