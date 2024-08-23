@@ -10,7 +10,6 @@ Few weird things about me:
 - 💀 JavaScript developer.
 - 💬 Ask me about **Nextjs, supabase, React, JavaScript**
 - 🌈 Hates TS and JS.
-- 🌱 Currently learning **Go**
 - 😄 Loves Rust and Go but never uses.
 - 💪 Uses Neovim BTW... in windows.
 - 📝 Write articles on [https://ezpieco.vercel.app](https://ezpieco.vercel.app)
