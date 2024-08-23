@@ -32,6 +32,10 @@ Few weird things about me:
 - [What tools do you use? Week 1](https://dev.to/ezpieco/what-tools-do-you-use-5h28)
 - [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
 - [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
+- [How To Do Clean Code](https://dev.to/ezpieco/how-to-do-clean-code-4g89)
+- [Big O notation For dummies](https://dev.to/ezpieco/big-o-notation-for-dummies-37p6)
+- [Introducing the Organic Feed Feature in Lambda!](https://dev.to/ezpieco/introducing-the-organic-feed-feature-in-lambda-37bg)
+- [Lambda: Your privacy based Social Media Alternative](https://dev.to/ezpieco/lambda-your-privacy-based-social-media-alternative-5e65)
 <!-- BLOG-POST-LIST:END -->
 
 ###
