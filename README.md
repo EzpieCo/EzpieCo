@@ -21,7 +21,7 @@ Few weird things about me:
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,go,html,java,javascript,python,typescript" /> <br />
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,css,go,html,javascript,python,typescript" /> <br />
   <img src="https://skillicons.dev/icons?i=express,flask,nextjs,nodejs,pytorch,react" /> <br />
   <img src="https://skillicons.dev/icons?i=neovim,vim,androidstudio" /> <br />
   <img src="https://skillicons.dev/icons?i=docker,git,github" /> <br />
