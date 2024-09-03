@@ -25,7 +25,6 @@ Few weird things about me:
   <img src="https://skillicons.dev/icons?i=express,flask,nextjs,nodejs,pytorch,react" /> <br />
   <img src="https://skillicons.dev/icons?i=neovim,vim,androidstudio" /> <br />
   <img src="https://skillicons.dev/icons?i=docker,git,github" /> <br />
-  <img src="https://skillicons.dev/icons?i=blender,figma" /> <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <br />
   <img src="https://skillicons.dev/icons?i=linux,windows" /> <br />
 </div>
