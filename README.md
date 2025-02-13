@@ -42,6 +42,7 @@ Few weird things about me:
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
 - [building privatus: day 7 - day 11](https://dev.to/ezpieco/building-privatus-day-7-day-11-32pk)
 - [Building privatus: Day 2 - day 6](https://dev.to/ezpieco/building-privatus-day-2-day-6-4pe7)
 - [Building Privatus: Day 1](https://dev.to/ezpieco/building-privatus-day-1-1p48)
@@ -51,7 +52,6 @@ Few weird things about me:
 - [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
 - [What tools do you use? Week 2](https://dev.to/ezpieco/what-tools-do-you-use-132e)
 - [Why is AI useless?](https://dev.to/ezpieco/why-is-ai-useless-f8h)
-- [What tools do you use? Week 1](https://dev.to/ezpieco/what-tools-do-you-use-5h28)
 <!-- BLOG-POST-LIST:END -->
 
 ###
