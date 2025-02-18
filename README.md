@@ -43,15 +43,15 @@ Few weird things about me:
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
-- [building privatus: day 7 - day 11](https://dev.to/ezpieco/building-privatus-day-7-day-11-32pk)
-- [Building privatus: Day 2 - day 6](https://dev.to/ezpieco/building-privatus-day-2-day-6-4pe7)
-- [Building Privatus: Day 1](https://dev.to/ezpieco/building-privatus-day-1-1p48)
 - [Focus on patterns not the technology](https://dev.to/ezpieco/focus-on-patterns-not-the-technology-15i6)
 - [Top 5 Cheat sheets for Developers](https://dev.to/ezpieco/top-5-cheat-sheets-for-developers-127o)
 - [Let&#39;s talk about Open-source!](https://dev.to/ezpieco/lets-talk-about-open-source-4593)
 - [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
 - [What tools do you use? Week 2](https://dev.to/ezpieco/what-tools-do-you-use-132e)
 - [Why is AI useless?](https://dev.to/ezpieco/why-is-ai-useless-f8h)
+- [What tools do you use? Week 1](https://dev.to/ezpieco/what-tools-do-you-use-5h28)
+- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
+- [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
 <!-- BLOG-POST-LIST:END -->
 
 ###
