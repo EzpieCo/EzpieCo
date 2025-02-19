@@ -42,6 +42,7 @@ Few weird things about me:
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [animating gravitation physics](https://dev.to/ezpieco/animating-gravitation-physics-4pfp)
 - [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
 - [Focus on patterns not the technology](https://dev.to/ezpieco/focus-on-patterns-not-the-technology-15i6)
 - [Top 5 Cheat sheets for Developers](https://dev.to/ezpieco/top-5-cheat-sheets-for-developers-127o)
@@ -51,7 +52,6 @@ Few weird things about me:
 - [Why is AI useless?](https://dev.to/ezpieco/why-is-ai-useless-f8h)
 - [What tools do you use? Week 1](https://dev.to/ezpieco/what-tools-do-you-use-5h28)
 - [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
-- [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
 <!-- BLOG-POST-LIST:END -->
 
 ###
