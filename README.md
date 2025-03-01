@@ -42,6 +42,7 @@ Few weird things about me:
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Your keyboard Says About You](https://dev.to/ezpieco/what-your-keyboard-says-about-you-2270)
 - [How to Get Addicted to Programming](https://dev.to/ezpieco/how-to-get-addicted-to-programming-1e37)
 - [animating gravitation physics](https://dev.to/ezpieco/animating-gravitation-physics-4pfp)
 - [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
@@ -51,7 +52,6 @@ Few weird things about me:
 - [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
 - [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
 - [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
-- [How To Do Clean Code](https://dev.to/ezpieco/how-to-do-clean-code-4g89)
 <!-- BLOG-POST-LIST:END -->
 
 ###
