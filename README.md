@@ -1,19 +1,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ezpieco&label=Profile%20views&color=0e75b6&style=flat" alt="ezpieco" /> </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+ezpieco;I+am+the+creator+of;The+open-source+privacy+based;Social+media+app+Lambda" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+ezpieco;I+am+the+creator+of;The+open-source+privacy+based;Social+media+app+Privatus" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">I am the creator of the open-source privacy-based social media app <a href="https://github.com/ezpie1/lambda-official">lambda</a>. It's currently a prototype.</p>
+<p align="center">I am the creator of the open-source privacy-based social media app <a href="https://github.com/ezpie1/lambda-official">Privatus</a>. It's currently a prototype.</p>
 
-Few weird things about me:
+A few weird things about me:
 
-- 🔭 Currently working on [Lambda](https://github.com/ezpie1/lambda-official)
+- 🔭 Currently working on [Privatus](https://github.com/ezpie1/lambda-official)
 - 💀 JavaScript developer.
 - 💬 Ask me about **Nextjs, supabase, React, JavaScript**
 - 🌈 Hates TS and JS.
 - 😄 Loves Rust and Go but never uses.
-- 💪 Uses Neovim BTW... in windows.
+- 💪 Uses Neovim BTW.
 - 📝 Write articles on [https://ezpieco.vercel.app](https://ezpieco.vercel.app)
 - ⚡ Fun fact **I think I am the best developer, but I am not...**
 
