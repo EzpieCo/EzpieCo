@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">I am the creator of the open-source privacy-based social media app <a href="https://github.com/ezpie1/lambda-official">Privatus</a>. It's currently a prototype.</p>
-<p align="center">Also the creator of <a href="https://github.com/EzpieCo/GetHooky">GetHooky</a> - The CLI tool to mange your git hooks without needing any dependancies</p>
+<p align="center">Also the creator of <a href="https://github.com/EzpieCo/GetHooky">GetHooky</a> - The CLI tool to manage your git hooks without needing any dependencies </p>
 
 A few weird things about me:
 
