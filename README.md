@@ -5,16 +5,15 @@
 </h1>
 
 <p align="center">I am the creator of the open-source privacy-based social media app <a href="https://github.com/ezpie1/lambda-official">Privatus</a>. It's currently a prototype.</p>
+<p align="center">Also the creator of <a href="https://github.com/EzpieCo/GetHooky">GetHooky</a> - The CLI tool to mange your git hooks without needing any dependancies</p>
 
 A few weird things about me:
 
 - 🔭 Currently working on [Privatus](https://github.com/ezpie1/lambda-official)
 - 💀 JavaScript developer.
-- 💬 Ask me about **Nextjs, supabase, React, JavaScript**
 - 🌈 Hates TS and JS.
 - 😄 Loves Rust and Go but never uses.
 - 💪 Uses Neovim BTW.
-- 📝 Write articles on [https://ezpieco.vercel.app](https://ezpieco.vercel.app)
 - ⚡ Fun fact **I think I am the best developer, but I am not...**
 
 <hr />
