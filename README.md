@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ezpieco&label=Profile%20views&color=0e75b6&style=flat" alt="ezpieco" /> </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+ezpieco;I+am+the+creator+of;The+open-source+privacy+based;Social+media+app+Privatus" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+ezpieco;I+am+the+creator+of;The+open-source+privacy+based;Social+media+app+Privatus;And+also+the+creator+of+GetHooky" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">I am the creator of the open-source privacy-based social media app <a href="https://github.com/ezpie1/lambda-official">Privatus</a>. It's currently a prototype.</p>
@@ -10,17 +10,17 @@
 A few weird things about me:
 
 - 🔭 Currently working on [Privatus](https://github.com/ezpie1/lambda-official)
-- 💀 JavaScript developer.
 - 🌈 Hates TS and JS.
-- 😄 Loves Rust and Go but never uses.
-- 💪 Uses Neovim BTW.
+- 😄 Loves Go but never uses.
+- 💀 JavaScript developer.
+- 💪 Uses Neovim BTW... in windows
 - ⚡ Fun fact **I think I am the best developer, but I am not...**
 
 <hr />
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=bash,c,css,go,html,javascript,python,typescript" /> <br />
+  <img src="https://skillicons.dev/icons?i=bash,c,css,go,javascript,python,typescript" /> <br />
   <img src="https://skillicons.dev/icons?i=express,flask,nextjs,nodejs,pytorch,react" /> <br />
   <img src="https://skillicons.dev/icons?i=neovim,vim,androidstudio" /> <br />
   <img src="https://skillicons.dev/icons?i=docker,git,github" /> <br />
