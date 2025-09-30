@@ -48,9 +48,9 @@ A few weird things about me:
 - [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
 - [Focus on patterns not the technology](https://dev.to/ezpieco/focus-on-patterns-not-the-technology-15i6)
 - [Top 5 Cheat sheets for Developers](https://dev.to/ezpieco/top-5-cheat-sheets-for-developers-127o)
-- [Let&#39;s talk about Open-source!](https://dev.to/ezpieco/lets-talk-about-open-source-4593)
 - [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
 - [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
+- [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
 <!-- BLOG-POST-LIST:END -->
 
 ###
