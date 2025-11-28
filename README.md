@@ -45,12 +45,12 @@ A few weird things about me:
 - [What Your keyboard Says About You](https://dev.to/ezpieco/what-your-keyboard-says-about-you-2270)
 - [How to Get Addicted to Programming](https://dev.to/ezpieco/how-to-get-addicted-to-programming-1e37)
 - [animating gravitation physics](https://dev.to/ezpieco/animating-gravitation-physics-4pfp)
-- [Elon wants OpenAI... again](https://dev.to/ezpieco/elon-wants-openai-again-3fdh)
 - [Focus on patterns not the technology](https://dev.to/ezpieco/focus-on-patterns-not-the-technology-15i6)
 - [Top 5 Cheat sheets for Developers](https://dev.to/ezpieco/top-5-cheat-sheets-for-developers-127o)
 - [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
-- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
-- [Lambda The Open-source privacy-focused social media app](https://dev.to/ezpieco/show-hn-lambda-the-open-source-privacy-focused-social-media-app-4p3d)
+- [How To Do Clean Code](https://dev.to/ezpieco/how-to-do-clean-code-4g89)
+- [Big O notation For dummies](https://dev.to/ezpieco/big-o-notation-for-dummies-37p6)
+- [Reality Of being a developer](https://dev.to/ezpieco/reality-of-being-a-developer-2a4l)
 <!-- BLOG-POST-LIST:END -->
 
 ###
