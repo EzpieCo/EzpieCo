@@ -13,8 +13,8 @@ A few weird things about me:
 - 🌈 Hates TS and JS.
 - 😄 Loves Go but never uses.
 - 💀 JavaScript developer.
-- 💪 Uses Neovim BTW... in windows
-- ⚡ Fun fact **I think I am the best developer, but I am not...**
+- 💪 I use Arch btw, with Hyprland btw and code in Neovim btw.
+- ⚡ Fun fact **I use arch btw.**
 
 <hr />
 
@@ -25,16 +25,14 @@ A few weird things about me:
   <img src="https://skillicons.dev/icons?i=neovim,vim,androidstudio" /> <br />
   <img src="https://skillicons.dev/icons?i=docker,git,github" /> <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <br />
-  <img src="https://skillicons.dev/icons?i=linux,windows" /> <br />
+  <img src="https://skillicons.dev/icons?i=linux" /> <br />
 </div>
 
 <br />
 <hr />
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezpieco&show_icons=true&locale=en&layout=compact&theme=react" alt="ezpieco" />
-<img src="https://github-readme-stats.vercel.app/api?username=ezpieco&show_icons=true&locale=en&theme=react" alt="ezpieco" />
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=ezpieco&theme=react" alt="ezpieco" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=ezpieco&theme=rose-pine" alt="ezpieco" />
 </div>
 
 <hr />
